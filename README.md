@@ -1,7 +1,7 @@
-# Project Title: Netflix vs Disney+ Subscriber Growth Analysis
+# Netflix vs Disney+ Subscriber Growth Analysis
 
 ## Authors
-- **[Khatanbuuvei Battulga]** 
+**Khatanbuuvei Battulga** 
 ## Disclaimer
 This project was submitted as part of the STATS201: Machine Learning for Social Science course, instructed by Prof. Luyao Zhang at Duke Kunshan University in Autumn 2025.
 
@@ -15,7 +15,7 @@ We would like to thank the following:
 This project has significantly contributed to my intellectual and professional development by allowing me to apply machine learning techniques in a real-world context. Working with the Netflix vs Disney dataset, I gained practical experience in data preprocessing, model building, and the use of advanced machine learning algorithms like Random Forest and Gradient Boosting. The integration of Natural Language Processing (NLP) for sentiment analysis and topic modeling expanded my understanding of how text data can be used in social science research. Furthermore, this project has deepened my understanding of the complex dynamics within the streaming industry, offering a valuable opportunity to synthesize social science insights with machine learning techniques.
 
 ## Embedded Media
-- ![Poster](https://github.com/Rising-Stars-by-Sunshine/Khatanbuuvei_STATS201_Final/blob/main/visualization/STATS201_Poster.png)
+![Poster](https://github.com/Rising-Stars-by-Sunshine/Khatanbuuvei_STATS201_Final/blob/main/visualization/STATS201_Poster.png)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
