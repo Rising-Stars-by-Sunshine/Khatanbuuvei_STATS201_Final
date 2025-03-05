@@ -15,7 +15,7 @@ We would like to thank the following:
 This project has significantly contributed to my intellectual and professional development by allowing me to apply machine learning techniques in a real-world context. Working with the Netflix vs Disney dataset, I gained practical experience in data preprocessing, model building, and the use of advanced machine learning algorithms like Random Forest and Gradient Boosting. The integration of Natural Language Processing (NLP) for sentiment analysis and topic modeling expanded my understanding of how text data can be used in social science research. Furthermore, this project has deepened my understanding of the complex dynamics within the streaming industry, offering a valuable opportunity to synthesize social science insights with machine learning techniques.
 
 ## Embedded Media
-- ![Poster](URL_to_poster_image)
+- ![Poster](https://github.com/Rising-Stars-by-Sunshine/Khatanbuuvei_STATS201_Final/blob/main/visualization/STATS201_Poster.png)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -32,5 +32,5 @@ The code for all simulations and visualizations can be found in the **`/code/`**
 The datasets used in this analysis are located in the **`/data/`** folder. This includes raw datasets, as well as any data preprocessing scripts in the **`/preprocessing/`** folder. The datasets are preprocessed and cleaned for use in the analysis.
 
 ### Documentation and Dependencies
-Detailed documentation of the project's structure, methodology, and results is available in the **`/docs/`** folder. The necessary dependencies to run the project are listed in the **`requirements.txt`** file, which includes all Python libraries needed for the analysis and visualizations.
+Detailed documentation of the project's structure, methodology, and results is available in the **`/docs/`** folder. The necessary dependencies to run the project are listed in the **`requirements.txt`** file, which includes all Jupyter libraries needed for the analysis and visualizations.
 
