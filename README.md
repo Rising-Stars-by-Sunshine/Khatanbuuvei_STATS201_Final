@@ -9,7 +9,7 @@ This project was submitted as part of the STATS201: Machine Learning for Social 
 We would like to thank the following:
 - **Prof. Luyao Zhang** for guidance and support throughout the course.
 - Our **classmates** for feedback and discussions that enriched our analysis.
-- **AIGC tools** for assisting in data processing and model development.
+- **Google Colab** for assisting in data processing and model development.
 - Open-source software and library such as [Kaggle]([https://www.kaggle.com/datasets/prathamjyotsingh/netflix-vs-disney])
 ## Statement of Intellectual and Professional Growth
 This project has significantly contributed to my intellectual and professional development by allowing me to apply machine learning techniques in a real-world context. Working with the Netflix vs Disney dataset, I gained practical experience in data preprocessing, model building, and the use of advanced machine learning algorithms like Random Forest and Gradient Boosting. The integration of Natural Language Processing (NLP) for sentiment analysis and topic modeling expanded my understanding of how text data can be used in social science research. Furthermore, this project has deepened my understanding of the complex dynamics within the streaming industry, offering a valuable opportunity to synthesize social science insights with machine learning techniques.
